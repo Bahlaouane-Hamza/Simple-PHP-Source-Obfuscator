@@ -1,0 +1,3 @@
+print 'Hello, world!'
+name = raw_input('What is your name?\n')
+print 'Hi, %s... You rock :D' % name
