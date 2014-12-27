@@ -1,6 +1,6 @@
 {
 	"fichiers": [
-		"app/*",
-		"test.php"
+		"testapp/app/*",
+		"testapp/test.php"
 	]
 }
